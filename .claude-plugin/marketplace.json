@@ -1,0 +1,6 @@
+{
+  "name": "claude-theme-osciloscopio",
+  "description": "Tema oscuro Osciloscopio para la app de Claude.",
+  "owner": { "name": "bedoya0501" },
+  "plugins": [{ "name": "osciloscopio", "source": "./" }]
+}
